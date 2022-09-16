@@ -6,7 +6,7 @@
 
 Projeto Construído no evento Next Level Week da Rocketseat
 
-[Clique aqui para acessar](https://rubensisaaccmp.io/nlw-esports-explorer)
+[Clique aqui para acessar](https://rubensisaaccmp.github.io/nlw-esports-explorer/)
 
 ## Tecnologias
 
